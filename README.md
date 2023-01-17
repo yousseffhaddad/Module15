@@ -1,63 +1,11 @@
 # Des Moines - Bike Sharing Project
 ## Overview of Project
-Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
-
-For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
-
-  Show the length of time that bikes are checked out for all riders and genders
-  Show the number of bike trips for all riders and genders for each hour of each day of the week
-  Show the number of bike trips for each type of user and gender for each day of the week.
-  Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
-
-1. ***Deliverable 1***: Change Trip Duration to a Datetime Format
-2. ***Deliverable 2***: Create Visualizations for the Trip Analysis
-3. ***Deliverable 3***: Create a Story and Report for the Final Presentation
-4. **Extra**: A written report on Des Moines - Bike Sharing Project Analysis [`README.md`](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/). 
- 
-
-## Resources and Before Start Notes:
-
-* Data Source: `NYC_CitiBike_Challenge_starter_code.ipynb`, `NYC_Citibike_Challenge.ipynb` and `201908-citibike-tripdata.csv`
-* Data Tools: Jupyter Notebook, CSV, Tableau and IO (Web Server)
-* Software: Jupyter Notebook and Visual Studio Code 1.50.0
-
-For more information, visit [`Tableau website`](https://public.tableau.com/en-us/s/). 
-
 
 ## Download Tableau Public
 First, go to the [`Tableau website`](https://public.tableau.com/en-us/s/) and enter your email. You will also be required to enter some contact information, but you can always unsubscribe from communications.
 
 ## Install Tableau Public
 Once you have downloaded Tableau Public, we can start the process of installing Tableau Public. The process of installing Tableau Public is very similar to installing most other programs.
-
-After it's finished downloading, click to open the file and then follow the on-screen instructions. This is the first screen you will see as part of the installation. Go ahead and click "Continue."
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s1.png?raw=true)
-
-Once you click "Continue," you should see the following screen. Click "Install."
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s2.png?raw=true)
-
-
-This process may take a few minutes. This is what your window should look like:
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s3.png?raw=true)
-
-
-When the installation is complete, you will see this window confirming that the software was installed successfully:
-
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s4.png?raw=true)
-
-
-Now that Tableau is installed, let's get started with downloading the data we'll need.
-
-
-
-> Let's move on!
 
 # Deliverable 1:  
 ## Change Trip Duration to a Datetime Format
@@ -66,7 +14,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 Your final results should look similar to the following image:
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s5.png?raw=true)
+![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/main/Resources/Images/s5.png?raw=true)
 
 
 
@@ -85,9 +33,6 @@ Your final results should look similar to the following image:
 
 
 ````py
-# CHALLENGE 14
-### MODULE 14 - Des Moines - Bike Sharing Project
-#### By Emmanuel Martinez
 
 import pandas as pd
 
@@ -125,8 +70,6 @@ citibike_df.info()
 # 5. Export the Dataframe as a new CSV file without the index.
 citibike_df.to_csv('citibike_201908_updt.csv', index=False)
 
-# by Emmanuel Martinez
-# Challenge 14
 ````
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/1.2.JPG?raw=true)
@@ -360,11 +303,3 @@ In Tableau, create a new Story using visualizations that will support the key fi
 >TABLEAU PUBLIC URL:
 
  [`Final Data Analysis - Aug 2019`](https://public.tableau.com/views/Des-Moines-Bike-Sharing/FINALSTORYREPORT?:language=en&:display_count=y&publish=yes&:origin=viz_share_link). 
-
->DES MOINES BIKE SHARING PROJECT - Readme:
-
- [`README.md`](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/). 
-
-
-
-##### Des Moines - Bike Sharing Project Analysis Completed by Emmanuel Martinez
