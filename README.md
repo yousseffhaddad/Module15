@@ -14,7 +14,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 Your final results should look similar to the following image:
 
-![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/master/Resources/Images/s5.png?raw=true)
+![name-of-you-image](Resources/Images/s5.png?raw=true)
 
 
 
@@ -77,41 +77,20 @@ Using Tableau, create visualizations that show:
 ### Create the Checkout Times for Users Viz
 In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
 
-Your final results should look similar to the following image:
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s6.png?raw=true)
-
 
 ### Create the Checkout Times by Gender Viz
 In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
 
-Your final results should look similar to the following image:
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s7.png?raw=true)
-
-
 ### Create the Trips by Weekday for Each Hour Viz
 In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
-
-Your final results should look similar to the following image:
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s8.png?raw=true)
-
 
 ### Create the Trips by Gender (Weekday per Hour) Viz
 In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s9.png?raw=true)
-
-
 ### Create the User Trips by Gender by Weekday Viz
 In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/s10.png?raw=true)
-
-
 ### Deliverable 2 Requirements:
-You will earn a perfect score for Deliverable 2 by completing all requirements below:
 
 1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
@@ -127,17 +106,8 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 > Image with `Jupyter Notebook` & `Tableau` Code below.
 
-**Code and Image**
 
-
-````js
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 14
-
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.1.JPG?raw=true)
+![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/master/Resources/Images/2.1.JPG?raw=true)
 
 
 
@@ -146,17 +116,8 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 > Image with `Jupyter Notebook` & `Tableau` Code below.
 
-**Code and Image**
 
-
-````js
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 14
-
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.2.JPG?raw=true)
+![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/master/Resources/Images/2.2.JPG?raw=true)
 
 
 
@@ -165,15 +126,6 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 > Image with `Jupyter Notebook` & `Tableau` Code below.
 
-**Code and Image**
-
-
-````js
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 14
-
-````
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.3.JPG?raw=true)
 
@@ -186,16 +138,6 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 > Image with `Jupyter Notebook` & `Tableau` Code below.
 
-**Code and Image**
-
-
-````js
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 14
-
-````
-
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.4.JPG?raw=true)
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.4.1.JPG?raw=true)
@@ -207,16 +149,6 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 
 > Image with `Jupyter Notebook` & `Tableau` Code below.
-
-**Code and Image**
-
-
-````js
-// COLUMBIA ENGINEERING 
-// By Emmanuel Martinez
-// Module 14
-
-````
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/2.5.JPG?raw=true)
 
