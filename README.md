@@ -220,4 +220,4 @@ In Tableau, create a new Story using visualizations that will support the key fi
 
 >TABLEAU PUBLIC URL:
 
- [`Final Data Analysis - Aug 2019`](https://public.tableau.com/views/Des-Moines-Bike-Sharing/FINALSTORYREPORT?:language=en&:display_count=y&publish=yes&:origin=viz_share_link). 
+ [`Final Data Analysis - Aug 2019`](https://public.tableau.com/views/Des--Moiness--Bike--Sharing/FINALSTORYREPORTT?:language=en&:display_count=y&publish=yess&:origin=viz_share_link). 
