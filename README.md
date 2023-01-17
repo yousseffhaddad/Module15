@@ -14,7 +14,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 Your final results should look similar to the following image:
 
-![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/main/Resources/Images/s5.png?raw=true)
+![name-of-you-image](https://github.com/yousseffhaddad/Module15/Resources/Images/s5.png?raw=true)
 
 
 
