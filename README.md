@@ -14,7 +14,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 Your final results should look similar to the following image:
 
-![name-of-you-image](https://github.com/yousseffhaddad/Module15/Resources/Images/s5.png?raw=true)
+![name-of-you-image](https://github.com/yousseffhaddad/Module15/blob/master/Resources/Images/s5.png?raw=true)
 
 
 
@@ -51,13 +51,6 @@ citibike_df.head()
 # 4. Check the datatypes of your columns. 
 citibike_df.info()
 ````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/1.1.JPG?raw=true)
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/1.1.2.JPG?raw=true)
-
-
-
 2. **The DataFrame is exported as a new file without the index column.**
 
 
@@ -71,13 +64,6 @@ citibike_df.info()
 citibike_df.to_csv('citibike_201908_updt.csv', index=False)
 
 ````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/1.2.JPG?raw=true)
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Des-Moines-Bike-Sharing/blob/main/Resources/Images/1.2.2.JPG?raw=true)
-
-
-
 
 # Deliverable 2:  
 ## Create Visualizations for the Trip Analysis
